@@ -132,7 +132,7 @@ navbar {
     margin-top: 100px;
     width: 380px;
     height: 280px;
-    padding-left: 230px;
+    margin-left: 330px;
     object-fit: cover;
     animation: float 2s ease-out infinite;
 }
